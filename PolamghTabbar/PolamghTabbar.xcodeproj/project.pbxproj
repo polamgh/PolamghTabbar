@@ -14,7 +14,6 @@
 /* Begin PBXFileReference section */
 		2CECB2A32438773200AADE49 /* PolamghTabbar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PolamghTabbar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CECB2A62438773200AADE49 /* PolamghTabbar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PolamghTabbar.h; sourceTree = "<group>"; };
-		2CECB2A72438773200AADE49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2CECB2AE2438774600AADE49 /* UITabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITabBarViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -50,7 +49,6 @@
 			children = (
 				2CECB2AE2438774600AADE49 /* UITabBarViewController.swift */,
 				2CECB2A62438773200AADE49 /* PolamghTabbar.h */,
-				2CECB2A72438773200AADE49 /* Info.plist */,
 			);
 			path = PolamghTabbar;
 			sourceTree = "<group>";
