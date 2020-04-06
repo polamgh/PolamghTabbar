@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "PolamghTabbar"
-  spec.version      = "1.2.1"
+  spec.version      = "1.3.1"
   spec.summary      = "tabbar with circel button"
   spec.description  = "This is a tabbar with circel button"
   spec.homepage     = "https://github.com/polamgh/PolamghTabbar"
